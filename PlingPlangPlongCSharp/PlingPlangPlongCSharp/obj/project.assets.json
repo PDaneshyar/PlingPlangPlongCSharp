@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj",
       "projectName": "PlingPlangPlongCSharp",
-      "projectPath": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj",
+      "projectPath": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj",
       "packagesPath": "C:\\Users\\kai__\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\obj\\",
+      "outputPath": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

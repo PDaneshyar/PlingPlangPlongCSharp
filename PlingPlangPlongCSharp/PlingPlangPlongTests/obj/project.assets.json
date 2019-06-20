@@ -5840,11 +5840,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongTests\\PlingPlangPlongTests.csproj",
+      "projectUniqueName": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongTests\\PlingPlangPlongTests.csproj",
       "projectName": "PlingPlangPlongTests",
-      "projectPath": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongTests\\PlingPlangPlongTests.csproj",
+      "projectPath": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongTests\\PlingPlangPlongTests.csproj",
       "packagesPath": "C:\\Users\\kai__\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongTests\\obj\\",
+      "outputPath": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5863,8 +5863,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj": {
-              "projectPath": "C:\\Users\\kai__\\source\\repos\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj"
+            "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj": {
+              "projectPath": "C:\\Users\\kai__\\OneDrive\\Documents\\GitHub\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp\\PlingPlangPlongCSharp.csproj"
             }
           }
         }
