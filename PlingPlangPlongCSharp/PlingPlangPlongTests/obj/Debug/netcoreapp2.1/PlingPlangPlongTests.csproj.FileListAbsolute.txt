@@ -1,0 +1,17 @@
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongTests.deps.json
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongTests.runtimeconfig.json
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongTests.runtimeconfig.dev.json
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongTests.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongTests.pdb
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.pdb
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.csprojAssemblyReference.cache
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.csproj.CoreCompileInputs.cache
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.AssemblyInfoInputs.cache
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.AssemblyInfo.cs
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.csproj.CopyComplete
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongTests\obj\Debug\netcoreapp2.1\PlingPlangPlongTests.pdb

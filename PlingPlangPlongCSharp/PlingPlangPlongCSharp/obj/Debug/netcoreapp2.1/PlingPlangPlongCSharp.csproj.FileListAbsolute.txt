@@ -1,0 +1,11 @@
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.deps.json
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.runtimeconfig.json
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.runtimeconfig.dev.json
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\bin\Debug\netcoreapp2.1\PlingPlangPlongCSharp.pdb
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\obj\Debug\netcoreapp2.1\PlingPlangPlongCSharp.csprojAssemblyReference.cache
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\obj\Debug\netcoreapp2.1\PlingPlangPlongCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\obj\Debug\netcoreapp2.1\PlingPlangPlongCSharp.AssemblyInfoInputs.cache
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\obj\Debug\netcoreapp2.1\PlingPlangPlongCSharp.AssemblyInfo.cs
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\obj\Debug\netcoreapp2.1\PlingPlangPlongCSharp.dll
+C:\Users\kai__\source\repos\PlingPlangPlongCSharp\PlingPlangPlongCSharp\obj\Debug\netcoreapp2.1\PlingPlangPlongCSharp.pdb
